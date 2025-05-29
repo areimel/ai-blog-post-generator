@@ -1,0 +1,6 @@
+{
+  "name": "AI Blog Post Generator",
+  "description": "A web application that uses Gemini API to generate blog posts with customizable tone, style, length, and target audience.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
