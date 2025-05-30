@@ -1,0 +1,35 @@
+{
+  "app": {
+    "name": "AI Blog Post Generator",
+    "tagline": "Craft compelling blog content with the power of AI.",
+    "description": "Generate high-quality blog posts with AI assistance using advanced natural language processing."
+  },
+  "metadata": {
+    "title": "AI Blog Post Generator",
+    "description": "Generate high-quality blog posts with AI assistance. Customize tone, style, length, and audience to create compelling content.",
+    "keywords": "AI blog generator, content creation, artificial intelligence, blog writing, content marketing, automated writing",
+    "author": "AI Blog Post Generator",
+    "ogTitle": "AI Blog Post Generator - Create Amazing Blog Content with AI",
+    "ogDescription": "Craft compelling blog posts effortlessly with our AI-powered generator. Customize tone, style, and audience for perfect content every time.",
+    "ogImage": "/og-image.png",
+    "twitterCard": "summary_large_image",
+    "themeColor": "#0ea5e9",
+    "favicon": "/favicon.ico"
+  },
+  "ui": {
+    "header": {
+      "title": "AI Blog Post Generator",
+      "subtitle": "Craft compelling blog content with the power of AI."
+    },
+    "footer": {
+      "text": "Powered by Gemini API & React. Designed with Tailwind CSS."
+    },
+    "loading": {
+      "message": "Generating your masterpiece..."
+    }
+  },
+  "icon": {
+    "component": "FeatherIcon",
+    "className": "h-10 w-10 text-sky-400"
+  }
+} 
